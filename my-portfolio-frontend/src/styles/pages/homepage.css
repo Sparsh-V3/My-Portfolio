@@ -1,0 +1,12 @@
+#portfolio {
+    border: 1px solid black;
+    padding: 1rem 3rem;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 768px) {
+    #portfolio {
+        padding: 1rem;
+    }
+}
