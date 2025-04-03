@@ -1,0 +1,16 @@
+<svg
+    width="60"
+    height="50"
+    viewBox="0 0 60 50"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- Top Line (Longest, Right-Aligned) -->
+    <line x1="8" y1="12" x2="52" y2="12" stroke="black" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- Middle Line (Shorter, Right-Aligned) -->
+    <line x1="16" y1="25" x2="52" y2="25" stroke="black" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- Bottom Line (Shortest, Right-Aligned) -->
+    <line x1="24" y1="38" x2="52" y2="38" stroke="black" stroke-width="4" stroke-linecap="round"/>
+</svg>
